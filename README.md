@@ -12,12 +12,13 @@ A [Pengu Loader](https://pengu.lol/) chat cleanup plugin.
 - Cleans post-game chat
 - Works dynamically as the League client updates
 
+
 ## Installation
 
-Install [Pengu Loader](https://pengu.lol/) if you don't have it yet.
-Download plainchat.zip from the [latest release].
-Extract it into your Pengu Loader plugins folder, so that you end up with plugins/rifttris/index.js and plugins/rifttris/music.mp3.
-Restart the League client (CTRL+R).
+1. Install [Pengu Loader](https://pengu.lol/) if you don't have it yet.
+2. Download plainchat.zip from the [latest release](https://github.com/tuxedocatsgoated/plain-chat/releases/tag/plainChat).
+3. Extract it into your Pengu Loader plugins folder.
+4. Restart the League client (CTRL+R).
 
 ## Troubleshooting
 
